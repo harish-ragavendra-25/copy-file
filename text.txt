@@ -1,0 +1,1 @@
+copy the text in text.txt into copy.txt
